@@ -34,10 +34,10 @@
 	define('QA_MYSQL_PORT', '3306');
 */
 
-	define('QA_MYSQL_HOSTNAME', '127.0.0.1');
-	define('QA_MYSQL_USERNAME', 'your-mysql-username');
-	define('QA_MYSQL_PASSWORD', 'your-mysql-password');
-	define('QA_MYSQL_DATABASE', 'your-mysql-db-name');
+	define('QA_MYSQL_HOSTNAME', 'eu-cdbr-west-01.cleardb.co');
+	define('QA_MYSQL_USERNAME', 'bc0d55d76fb950');
+	define('QA_MYSQL_PASSWORD', '5bf8c395');
+	define('QA_MYSQL_DATABASE', 'heroku_444da05315c9474');
 
 /*
 	Ultra-concise installation instructions:
