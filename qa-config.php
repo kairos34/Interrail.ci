@@ -34,7 +34,7 @@
 	define('QA_MYSQL_PORT', '3306');
 */
 
-	define('QA_MYSQL_HOSTNAME', 'eu-cdbr-west-01.cleardb.co');
+	define('QA_MYSQL_HOSTNAME', 'eu-cdbr-west-01.cleardb.com');
 	define('QA_MYSQL_USERNAME', 'bc0d55d76fb950');
 	define('QA_MYSQL_PASSWORD', '5bf8c395');
 	define('QA_MYSQL_DATABASE', 'heroku_444da05315c9474');
